@@ -36,5 +36,5 @@ To Visit App:
 
 Live Website
 
-[I'm an inline-style link](https://nikeclone-tailwind.netlify.app/)
+[Nike Clone](https://nikeclone-tailwind.netlify.app/)
 
